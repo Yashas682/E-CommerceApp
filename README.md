@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# E-CommerceApp
+
+## UI Interface
+![e-com products](https://github.com/Yashas682/E-CommerceApp/assets/91604926/9a2d5e18-5cf8-43ff-91e6-e9bf67df7caf)
+### Sort by price view
+![e-com sort by price](https://github.com/Yashas682/E-CommerceApp/assets/91604926/f97ca084-ab48-4dba-820f-574603e02a3d)
+### Cart view
+![e-com cart](https://github.com/Yashas682/E-CommerceApp/assets/91604926/0dddeb44-cdd3-4d17-9c0d-b5052d1d9bbb)
+### Edit product view
+![e-com edit product view](https://github.com/Yashas682/E-CommerceApp/assets/91604926/92e99379-cb9b-4f4a-bb15-87d140d1bb64)
+### Add product view
+![e-com add products](https://github.com/Yashas682/E-CommerceApp/assets/91604926/24796f8b-7a13-4463-8002-ce3979aaa101)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
